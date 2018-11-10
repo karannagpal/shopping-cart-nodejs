@@ -11,6 +11,7 @@
 ### change log:
 - 0/20 initial commit
 - 1/20 basic skeleton created using express generator, styling changed, bootstrap & jQuery added
+- bootstrap, jQuery versions reverted, navbar added
 
 ### note about commit messages:
 - example: 3/20 user login added

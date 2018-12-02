@@ -17,8 +17,9 @@
 - `v0.0` initial commit
 - `v0.1` basic skeleton created using express generator, styling changed, bootstrap & jQuery added
 - `v0.1.5` bootstrap, jQuery versions reverted, navbar added
-- `v0.2` boxes added to body, font-awesome included
-- `v0.3` mongoose installed
+- `v0.2.0` boxes added to body, font-awesome included
+- `v0.3.0` mongoose installed
+- `v0.3.5` minor fixes, seeder not working, values are still hard-coded.
 
 ### note about commit messages:
 - example: `v0.x.y user login added`
